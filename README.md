@@ -1,19 +1,14 @@
-# Next.js + Tailwind CSS Example
+# GraphCMS Headless Blog
+### [Live Site](https://nextjs-plum-five-51.vercel.app/)
 
-Tailwind CSS is integrated into the `create-next-app` CLI, which supports TypeScript and JavaScript, as well as the App Router (`app/`) and the pages directory `pages/`.
+![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
 
-## How to use
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap a project preconfigured with Tailwind CSS:
+## Introduction
+This is a code repository for the corresponding video tutorial. 
 
-```bash
-npx create-next-app --tailwind with-tailwindcss-app
-```
+With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
 
-```bash
-yarn create next-app --tailwind with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --tailwind with-tailwindcss-app
-```
+You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
